@@ -7,5 +7,6 @@ The article pushes a perspective that AI may decrease career opportunities for s
 
 
 
+
 ### Comment from Anna Ye
 This article seems as a whole very concerning. I'm also not able to find the more optimistic article, but I get the feeling that the best jobs in software engineering will be developing replacements for software engineers. In the short term, this may be positive, but I have many decades left before I'm supposed to be able to retire and I'm not sure how much the job market will exist by then. Cheers
